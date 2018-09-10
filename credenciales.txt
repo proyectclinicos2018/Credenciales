@@ -1,0 +1,10 @@
+git hub
+
+usuario:proyect_clinicos_2018
+email: emanuel.islas@falp.org
+contraseña: Falp_2018.
+
+
+correo gmail
+correo: proyectclinicos2018@gmail.com
+contraseña: Falp_2018.
